@@ -1,1 +1,7 @@
-
+public class ejercicio {
+  public static void main (String[] args){
+    duble a=4;
+    duble a=5;
+    duble a=1;
+  }  
+}
